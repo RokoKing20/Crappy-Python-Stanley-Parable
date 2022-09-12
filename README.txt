@@ -1,5 +1,7 @@
 HEY!!!
 YOU, YES YOU!!!
+SPCC is umm.... A "game" made with python that is like a crappy copy of the Stanley parable. There isn't even any GUI! U have to play it with the terminal.
+(SPCC- Stanley Parable's Crappy Copy)
 
 INSTRUCTIONS-------------------------------------------------------------------------------------------
 Install python, if u didn't already. Double click on the console file.
@@ -9,6 +11,7 @@ INTRO---------------------------------------------------------------------------
 I am RokoKing20, the creator of the respritory you justed downloaded. Cool, right?
 	This is my first repository so don't be that hard on me, ok? But still feedback
 	would be much appreciated, just don't criticize too hard.
+	
 -------------------------------------------------------------------------------------------------------
 
 THIS RESPRITORY----------------------------------------------------------------------------------------
